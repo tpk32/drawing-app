@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="grey_dark">#1B1A1A</color>
+    <color name="grey">#383838</color>
+    <color name="grey_dark_II">#232323</color>
+    <color name="cyan">#58FFC7</color>
+    <color name="cyan_dark">#31A18F</color>
+    <color name="blue_bright">#0060E7</color>
+    <color name="blue_dark">#011C6E</color>
+    <color name="actionBarText">#949494</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="skin">#FFCC99</color>
+    <color name="red">#FF0000</color>
+    <color name="green">#00FF00</color>
+    <color name="blue">#0000ff</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="lollipop">#35a79c</color>
+    <color name="random">#A349B1</color>
+</resources>
